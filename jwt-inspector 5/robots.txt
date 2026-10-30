@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jwt-inspector.keshavramaiah.workers.dev/sitemap.xml
